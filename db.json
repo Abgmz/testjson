@@ -1,32 +1,32 @@
 {
-  usuarios: [
+  "usuarios": [
     {
-      id: 1,
-      nombre: "Pedro",
-      edad: 27,
-      email: "pedro@email.com",
-      salario: 1000
+      "id": 1,
+      "nombre": "Pedro",
+      "edad": 27,
+      "email": "pedro@email.com",
+      "salario": 1000
     },
     { 
-      id: 2,
-      nombre: "Pancho",
-      edad: 29,
-      email: "pancho@email.com",
-      salario: 1500
+      "id": 2,
+      "nombre": "Pancho",
+      "edad": 29,
+      "email": "pancho@email.com",
+      "salario": 1500
     },
     { 
-      id: 3,
-      nombre: "Perla",
-      edad: 31,
-      email: "perlao@email.com",
-      salario: 2500
+      "id": 3,
+      "nombre": "Perla",
+      "edad": 31,
+      "email": "perlao@email.com",
+      "salario": 2500
     },
     { 
-      id: 4,
-      nombre: "Eva",
-      edad: 24,
-      email: "eva@email.com",
-      salario: 900
+      "id": 4,
+      "nombre": "Eva",
+      "edad": 24,
+      "email": "eva@email.com",
+      "salario": 900
     }
   ]
 }
